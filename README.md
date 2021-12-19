@@ -43,4 +43,4 @@ THEN the password is either displayed in an alert or written to the page
 
 
 Webpage URL 
-benjamineidum.github.io/pwgen/
+https://benjamineidum.github.io/pwgen/
