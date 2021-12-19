@@ -40,3 +40,6 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ![alt text](https://github.com/Benjamineidum/PWGen/blob/main/assets/images/PWGenSC.png)
+
+
+Webpage URL benjamineidum.github.io/pwgen/
